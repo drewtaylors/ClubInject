@@ -10,7 +10,6 @@ function constructOptions(kButtonColors) {
             });
         })
         page.appendChild(button);
-        console.log('commit');
     }
 }
 constructOptions(kButtonColors);
